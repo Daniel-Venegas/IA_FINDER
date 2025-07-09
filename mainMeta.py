@@ -29,3 +29,5 @@ if __name__ == "__main__":
     print("🔍 Visualizador de metadatos con ExifTool instalado en el sistema")
     seleccionar_archivo()
     input("\nPresiona ENTER para salir...")
+    
+    #prueba branch 
